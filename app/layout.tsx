@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "WeTradeEDU - Digital Marketing",
-  description: "Digital marketing solutions to grow your online presence",
+  title: "WeTradeEDU | Learn markets with clarity",
+  description: "A modern education platform for building market literacy and thoughtful decision-making skills.",
 };
 
 export default function RootLayout({
